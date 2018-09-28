@@ -11,7 +11,7 @@ In this demo, we wrap the Field API calls in our own server codes implemented wi
 
 ## Requirements
 
-* .net Core SDK v2.1 and later [link](https://www.microsoft.com/net/download)
+* [.net Core SDK](https://www.microsoft.com/net/download) v2.1 and later 
 * [Visual Studio 2017](https://visualstudio.microsoft.com/) or [Visual Studio Code](https://visualstudio.microsoft.com/) with the [C# extension](https://code.visualstudio.com/docs/languages/csharp)
 
 <a name="setup"></a>

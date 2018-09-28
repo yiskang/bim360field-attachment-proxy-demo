@@ -45,6 +45,7 @@ namespace Autodesk {
       return false;
     }
 
+    // POST api/authentication/authenticate
     [HttpPost]
     [AllowAnonymous]
     public ActionResult Authenticate ([FromForm] User user) {

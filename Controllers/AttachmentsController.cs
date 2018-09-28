@@ -56,7 +56,7 @@ namespace Autodesk.Controllers {
       return JsonConvert.DeserializeObject<Identity> (response.Content);
     }
 
-    // GET api/values
+    // GET api/attachments
     [HttpGet]
     [Authorize]
     public ActionResult Get ([FromQuery] string objectId, [FromQuery] string projectId) {
